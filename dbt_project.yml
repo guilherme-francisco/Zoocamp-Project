@@ -1,0 +1,4 @@
+name: 'bycle_rental_london'
+version: '1.0.0'
+dbt-cloud:
+    project-id: 70403103919646
