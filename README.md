@@ -1,14 +1,13 @@
 # [Zoocamp-Project](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main)
-<h3><b>Background</b><br/></h3>
+### Background
 As a regular user of Gira in Lisbon, I've often encountered instances where bikes are unavailable during certain hours. <br/>This led me to question whether a more data-driven strategy could offer solutions or mitigate these issues.
 
-<h3><b>Problem</b></h3>
-<u>
-  <li>Identified the issue of bike availability based on personal experience with Gira in Lisbon.</li>
-  <li>Explored whether a data-driven approach could help solve or mitigate the problem.</li>
-</u>
+### Problem
+- Identified the issue of bike availability based on personal experience with Gira in Lisbon.
+- Explored whether a data-driven approach could help solve or mitigate the problem.
 
-<h3><b>Solution</b></h3>
+
+### Solution
 <p align="center">
   <img width="3966" alt="Untitled(4)" src="https://github.com/guilherme-francisco/Zoocamp-Project/assets/51465482/67e82b96-3aa0-4396-8e2b-775e92939626">
 </p>
