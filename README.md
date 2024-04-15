@@ -17,11 +17,15 @@ Instructions on how to install and run the project
 <!-- prerequisites -->
 ### Prerequisites
 
-- AWS installed and configured using a IAM User with the ability to read and modify S3, RedShift, EC2.
+- AWS installed and configured using a IAM User with the ability to read and modify S3, RedShift, EC2. For more details, chekout these pages:
+  - https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html
+  - https://docs.aws.amazon.com/cli/v1/userguide/cli-chap-authentication.html
 - Git installed and configured on your machine
+  - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - Python version: 3.11.8
-- Pip: 24.0
+  - https://www.python.org/downloads/release/python-3118/
 - Jupyter notebook or VSC configured
+  - https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 
 ### Installing the project
 
@@ -69,5 +73,5 @@ MasterUserPassword = {PASSWORD} # Used for the Redshift
 DB_NAME = {DATABASE} # Used for the redshift
 ```
 
-After all of this, everything should be ready to use!
+After this process, everything should be ready to use!
 
