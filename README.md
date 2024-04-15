@@ -75,3 +75,7 @@ DB_NAME = {DATABASE} # Used for the redshift
 
 After this process, everything should be ready to use!
 
+## 🌟 Results
+
+![Bycle_Rental_London](https://github.com/guilherme-francisco/Zoocamp-Project/assets/51465482/169d68cc-d61a-41f4-9be2-cc0d9771b1f8)
+
